@@ -1,0 +1,19 @@
+h1 {
+    text-align: center;
+    color:rgb(180, 61, 18)
+}
+h3 {
+    color: rgb(180, 61, 18)
+}
+
+
+body{
+    padding-left: 10%;
+    padding-right: 10%;
+    background-color:antiquewhite
+}
+
+body > img {
+    height:50%;
+    width: 45%;
+}
